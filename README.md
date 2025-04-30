@@ -10,7 +10,7 @@
 
 ## 📚 Current Projects
 - Network lab simulations (OSPF, EIGRP, VLANs, NAT/PAT, ACLs, DHCP Snooping, Dynamic ARP Inspection, Port Security etc)
-- Network hardening (RADIUS, IPsec VPNs, firewalls, Zero Trust)
+- Network hardening (RADIUS, IPsec VPNs, firewalls, Zero Trust, dot1x Authentication, IDS/IPS)
 - Vulnerabilies Analysis (Nmap, Metasploit, Burpsuite, John the ripper, Hydra)
 - Basic Network monitoring (SNMP with Zabbix and Syslog with Graylog)
 - SOC Operations & Analysis (Wazuh, TheHive, Cortex)
